@@ -2,4 +2,8 @@
 
 # Códigos Extra
 
-Neste repositório contém códigos desenvolvidos com base nos repositórios Introdução, Tratamento de Dados, Operadores e Instruções de Decisão, Matrizes e Instruções de Repetição, todos usando a lingugem C# e pertecentes a este mesmo GitHub.
+Códigos desenvolvidos com base nos repositórios: Introdução, Tratamento de Dados, Operadores e Instruções de Decisão, Matrizes e Instruções de Repetição, e um pouco sobre o recurso Herança na linguagem C#.
+
+### Herança
+
+Herança é um dos atributos fundamentais da programação orientada a objeto. Ela permite definir uma classe filha que reutiliza (herda), estende ou modifica o comportamento de uma classe pai. A classe cujos membros são herdados é chamada de classe base. A classe que herda os membros da classe base é chamada de classe derivada.

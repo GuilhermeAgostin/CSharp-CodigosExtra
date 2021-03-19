@@ -1,5 +1,3 @@
-# C#
-
 # Códigos Extra
 
 Códigos desenvolvidos com base nos repositórios: Introdução, Tratamento de Dados, Operadores e Instruções de Decisão, Matrizes e Instruções de Repetição, e um pouco sobre o recurso Herança na linguagem C#.
